@@ -1,0 +1,7 @@
+{
+    "name": "Alpaca IoT",
+    "description": "A test app",
+    "image": "heroku/python",
+    "repository": "https://github.com/axelcdv/alpaca-iot",
+    "addons": ["heroku-postgresql"]
+}
